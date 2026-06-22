@@ -5,3 +5,4 @@ python-multipart
 huggingface-hub
 sentence-transformers
 urllib3
+requests
